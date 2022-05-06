@@ -1,4 +1,4 @@
-# ElifTechSchool-test
+# test
 
 To run the project you can type in cmd:
 ```
